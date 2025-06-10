@@ -1,0 +1,1 @@
+This file will contain all the steps that are taken to make this project, along with important functions that are used.
