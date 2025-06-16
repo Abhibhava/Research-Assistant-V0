@@ -41,4 +41,4 @@ Built using:
 ```
 
 ## 🧠 Architecture
-```mermaid graph TD A[PDF Upload] --> B[Extract Text with PyMuPDF] B --> C[Split Text into Chunks] C --> D[Convert Chunks to Embeddings via MiniLM] D --> E[Store in FAISS VectorDB] F[User Question] --> G[Retrieve Relevant Chunks] G --> H[FLAN-T5 Inference via LangChain] H --> I[Answer Returned] ``` 
+```mermaid graph TD A[PDF Upload] --> B[Extract Text with PyMuPDF] B --> C[Split Text into Chunks] C --> D[Convert Chunks to Embeddings via MiniLM] D --> E[Store in FAISS VectorDB] F[User Question] --> G[Retrieve Relevant Chunks] G --> H[FLAN-T5 Inference via LangChain] H --> I[Answer Returned]  
