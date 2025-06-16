@@ -38,9 +38,9 @@ Built using:
 ├── app.py              # Gradio UI app
 ├── requirements.txt    # Dependencies
 └── README.md           # This file
+```
 
-
-🧠 Architecture
+## 🧠 Architecture
 
 graph TD
     A[PDF Upload] --> B[Extract Text with PyMuPDF]
