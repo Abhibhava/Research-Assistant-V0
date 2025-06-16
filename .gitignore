@@ -1,2 +1,4 @@
 vectorstore/
 demo.py
+.gradio/
+__pycache__/
